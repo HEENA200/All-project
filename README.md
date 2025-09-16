@@ -5,3 +5,6 @@ https://github.com/HEENA200/Calculator.git
 https://github.com/HEENA200/contact.git
 https://github.com/HEENA200/chatbot.git
 https://github.com/HEENA200/resize.git
+https://github.com/HEENA200/builder-pixel-haven.git
+https://github.com/HEENA200/News-headline-scrape.git
+https://github.com/HEENA200/cafe-receipt-wizard.git
